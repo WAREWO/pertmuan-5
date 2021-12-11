@@ -1,0 +1,15 @@
+body{
+  background-color: #B4F8C8;
+}
+img {
+  border-radius: 50%;
+}
+body {
+  margin:0 auto;
+}
+h1{
+  color:orange;
+}
+hr{
+  border-top: 2px dashed black;
+}
